@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HotDog-NotHotDog-Kotlin-New</string>
+    <string name="title_activity_show_image">ShowImage</string>
+    <string name="capture_button_description">A standard button with a camera on it, press it to take a picture</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_description_image_view_preview">The field where to display the image to classify</string>
+    <string name="result_view_text">Result of the classification</string>
+    <string name="classification_result_view">Classification Result</string>
+    <string name="classification_result_view_description">Headline for the cassification result</string>
+    <string name="result_proba_description">Probability</string>
+    <string name="result_time_description">Time</string>
+</resources>
